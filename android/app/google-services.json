@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269482313633",
+    "project_id": "islprediction-d9d2f",
+    "storage_bucket": "islprediction-d9d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269482313633:android:1883eea9d9073d76756de0",
+        "android_client_info": {
+          "package_name": "com.justsports.islprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269482313633-7esdgaja6804jt2b9kiufrc2h69u9l3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCbDWuPgCZHisVGjmZYuSWo_UiQVJzUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269482313633-7esdgaja6804jt2b9kiufrc2h69u9l3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
